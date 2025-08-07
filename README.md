@@ -1,7 +1,7 @@
 # Reed | CEO of Artifact & Full-Stack AI Engineer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EmilyThaHuman/assets/main/artifact-intelligence.svg" alt="AI Developer" width="150" height="150" />
+  <img src="https://artifact.chat/assets/email.png" alt="AI Developer" width="150" height="150" />
   
   <h3>CEO of Artifact.chat | Building the future with AI-powered applications</h3>
   
